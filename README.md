@@ -42,4 +42,7 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=mohamedahmed7770&icon=5&color=5)](https://visitcount.itsvg.in)
-![](https://visitcount.itsvg.in/api?id=mohamedahmed7770&icon=5&color=10)
+
+<a href="https://github.com/mohamedahmed7770/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+</a>
