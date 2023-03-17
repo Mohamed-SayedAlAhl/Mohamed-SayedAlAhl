@@ -26,13 +26,13 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=SayedAlAhlMohamed&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mohamedahmed7770&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SayedAlAhlMohamed&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SayedAlAhlMohamed&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🏆 GitHub Trophies:
 
-![](https://github-profile-trophy.vercel.app/?username=SayedAlAhlMohamed&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mohamedahmed7770&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 # ✍️ I Really love this Dev Quote:
@@ -40,4 +40,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SayedAlAhlMohamed&icon=5&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mohamedahmed7770&icon=5&color=5)](https://visitcount.itsvg.in)
