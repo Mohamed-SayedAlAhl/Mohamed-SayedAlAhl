@@ -44,5 +44,5 @@
 [![](https://visitcount.itsvg.in/api?id=mohamedahmed7770&icon=5&color=5)](https://visitcount.itsvg.in)]
 
 <a href="https://github.com/mohamedahmed7770/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?username=mohamedahmed7770">
 </a>
