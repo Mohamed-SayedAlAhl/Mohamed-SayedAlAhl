@@ -41,8 +41,7 @@
 
 ---
 
+
 [![](https://visitcount.itsvg.in/api?id=Mohamed-SayedAlAhl&icon=5&color=5)](https://visitcount.itsvg.in)
 
-<a href="https://github.com/Mohamed-SayedAlAhl/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Mohamed-SayedAlAhl&color=FE428E">
-</a>
+
