@@ -28,7 +28,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Mohamed-SayedAlAhl&theme=radical&hide_border=false&include_all_commits=false&count_private=false&PAT_1=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)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-SayedAlAhl&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-SayedAlAhl&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-SayedAlAhl&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&PAT_1=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)
 
 # 🏆 GitHub Trophies:
 
