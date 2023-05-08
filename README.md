@@ -26,9 +26,9 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Mohamed-SayedAlAhl&theme=radical&hide_border=false&include_all_commits=false&count_private=false&PAT_1=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)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Mohamed-SayedAlAhl&theme=radical&hide_border=false&include_all_commits=false&count_private=false&PAT_1=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)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-SayedAlAhl&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-SayedAlAhl&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&PAT_1=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)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-SayedAlAhl&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&PAT_1=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)
 
 # 🏆 GitHub Trophies:
 
