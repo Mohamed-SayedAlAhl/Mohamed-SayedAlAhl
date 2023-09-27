@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mohamed Sayed Al-Ahl </h1>
-
-<h3 align="center">A passionate Machine Learning Engineer from Egypt </h3>
+<h1 align="center">Hi 👋, I'm Mohamed Sayed Al-Ahl</h1>
+<h3 align="center">A passionate Machine Learning Engineer from Egypt</h3>
 
 # 💫 About Me:
 
 🌱 I’m currently learning Machine Learning<br>
-📫 How to reach me: SayedAlAhl.Mohamed@gmail.com
 
+📫 How to reach me: SayedAlAhl.Mohamed@gmail.com
 
 # 🌐 Socials:
 
